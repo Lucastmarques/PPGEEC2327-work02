@@ -1,0 +1,67 @@
+{
+  "files": {
+    "code": [
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/engine_finetune.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/main_finetune.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/models_mae.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/models_Regression.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/models_Segmentation.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/submitit_finetune.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/modules/modeling/aspp.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/modules/modeling/decoder.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/modules/modeling/deeplab.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/modules/modeling/Unet_models.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/modules/modeling/__init__.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/modules/modeling/backbone/drn.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/modules/modeling/backbone/mobilenet.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/modules/modeling/backbone/resnet.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/modules/modeling/backbone/xception.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/modules/modeling/backbone/__init__.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/modules/modeling/sync_batchnorm/batchnorm.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/modules/modeling/sync_batchnorm/comm.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/modules/modeling/sync_batchnorm/replicate.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/modules/modeling/sync_batchnorm/__init__.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/util/crop.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/util/datasets.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/util/lars.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/util/lr_decay.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/util/lr_sched.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/util/metrics.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/util/misc.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/util/msssim.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/util/pos_embed.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/util/pos_embedtest.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/util/tools.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Pretrain/engine_pretrain.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Pretrain/main_pretrain.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Pretrain/models_mae.py",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Pretrain/submitit_pretrain.py"
+    ],
+    "document": [
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/requirements.txt",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/Data/README-Denoise.md",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/Data/README-Facies.md",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/Data/README-Geobody.md",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/Data/README-Interpolation.md",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/Data/README-Inversion.md",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/Data/README-Pretrain.md",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/Application/README.md"
+    ],
+    "paper": [
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/README.md",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Finetune/README.md",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/SFM-Pretrain/README.md"
+    ],
+    "image": [
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/assert/Network.png",
+      "/mnt/c/Users/Lucas Torres/Documents/Acad\u00eamico/Doutorado/T\u00f3picos Especiais em Deep Learning/SeismicFoundationModel/assert/SeismicPretrainedModel.png"
+    ],
+    "video": []
+  },
+  "total_files": 48,
+  "total_words": 49217,
+  "needs_graph": false,
+  "warning": "Corpus is ~49,217 words - fits in a single context window. You may not need a graph.",
+  "skipped_sensitive": [],
+  "graphifyignore_patterns": 0
+}
