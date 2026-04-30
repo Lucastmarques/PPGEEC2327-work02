@@ -58,3 +58,12 @@ To replicate this analysis and query the codebase, follow these steps:
 
 ## Conclusion
 Graphify does not replace meticulous technical reading, but it acts as a highly effective academic co-pilot. It creates navigable investigation trails out of scattered codebases, allowing researchers to focus their cognitive effort on deep architectural logic rather than getting lost in file directories.
+
+## 👥 Contributors
+A huge thanks to the team!
+
+| [<img src="https://github.com/Lucastmarques.png" width="100px;"/><br /><sub><b>Lucas Torres</b></sub>](https://github.com/Lucastmarques) | [<img src="https://github.com/roseliasilva.png" width="100px;"/><br /><sub><b>Rosélia Silva</b></sub>](https://github.com/roseliasilva) | [<img src="https://github.com/quelita2.png" width="100px;"/><br /><sub><b>Quelita Ferraz</b></sub>](https://github.com/quelita2) |
+| :---: | :---: | :---: |
+| M2AI Researcher | M2AI Researcher | M2AI Researcher |
+
+---
